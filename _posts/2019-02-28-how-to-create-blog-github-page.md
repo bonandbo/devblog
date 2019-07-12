@@ -3,6 +3,7 @@ layout: post
 title: How to make your own blog with Github page
 #permalink: /how-to/make-your-own-blog-with-github-page/
 categories: how-to
+tags: webdev blog github-page
 ---
 > Đây là log lại tạm thời - chưa commit 
 Go tieng viet khong duoợ

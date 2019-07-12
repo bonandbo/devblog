@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      How to make your own blog with Github page &middot; Coder Blog
+    
+    
+      
+
+
+
+
+
+
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata" >
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Space+Mono" >
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>I am coder</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/categories/">Categories</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="http://cards.bobonbon.io/">Cards</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2019. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Coder Blog</a>
+            <small>A Game Dev - A Coder - A Leader - A Father</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">How to make your own blog with Github page</h1>
+  <span class="post-date">28 Feb 2019</span>
+  <div class="post-categories">
+      
+      
+      <a href="/categories/#how-to">how-to</a>
+      
+      
+    </div>
+    <div class="post-tags">
+      <span>[
+        
+          
+          <a href="/tag/webdev"><code class="highligher-rouge"><nobr>webdev</nobr></code>&nbsp;</a>
+        
+          
+          <a href="/tag/blog"><code class="highligher-rouge"><nobr>blog</nobr></code>&nbsp;</a>
+        
+          
+          <a href="/tag/github-page"><code class="highligher-rouge"><nobr>github-page</nobr></code>&nbsp;</a>
+        
+      ]</span>
+    </div>
+  <blockquote>
+  <p>Đây là log lại tạm thời - chưa commit 
+Go tieng viet khong duoợ
+thử gõ tiếng việt ở đây (notepad) xem, hmm, xem ra visual studio code không hỗ trợ unicode cho markdown ?????
+note để tìm hiểu
+thử lại phát nưã
+ok biết lí do rồi, do extension Markdown All in One của Yu Zhang.</p>
+</blockquote>
+
+<hr />
+<p>Vậy là sau 1 ngày tìm hiểu, mình đã có thể tạo ra những post đầu tiên trên blog của mình, một cách rất đơn giản, đơn giản hơn rất nhiều và thân thuộc hơn rất nhiều với mình. Thanks to Github &amp; Jekyll.</p>
+
+<p>Bản thân là game dev, không phải web dev, nên mình không đi chuyên sâu vào mấy cái kỹ thuật web dev phức tạp, với mình, viết blog bằng visual studio code hoặc notepad thật tiện, polish bằng command line, càng tuyệt hơn.</p>
+
+<p>Outline:</p>
+<ul class="task-list">
+  <li>Github page, Jekyll là gì</li>
+  <li>Tại sao lại chọn sử dụng nó</li>
+  <li>Làm như thế nào, sử dụng công cụ gì, cần biết kiến thức gì</li>
+  <li>Chuyển sang domain cá nhân ra sao, hay là để .github.io cho ngầu</li>
+  <li>Tiếp theo là gì:</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Tạo category page</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Tạo Tag page</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Thay favicon</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Sửa about</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />TBD</li>
+</ul>
+
+<hr />
+<p>Giờ thì lại bị issue với unicode khi publish. Mình nghĩ là do Visual Code đang ko set ở utf-8. Let’s try.
+Đã save ở utf-8. Bằng bằng. mình</p>
+
+<p>Bằng</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/gamedev/introduce-game-engine-with-tuto/">
+            introduct-game-engine-with-SDL
+            <small>12 Jul 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/babybon/lich-sinh-hoat-cho-be-5-thang-tuoi/">
+            Lịch sinh hoạt cho bé 5 tháng tuổi
+            <small>05 Mar 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/how-to/how-to-create-categories-for-jekyll-blog/">
+            How to create categories for Jekyll blog
+            <small>01 Mar 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

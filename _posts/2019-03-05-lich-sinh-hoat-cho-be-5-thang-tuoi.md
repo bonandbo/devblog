@@ -3,6 +3,7 @@ layout: post
 categories: babybon
 #permalink: lich-sinh-hoat-cho-be-5-thang-tuoi
 title: Lịch sinh hoạt cho bé 5 tháng tuổi
+tags: vietnamese baby beafather
 ---
 
 ### Bé Bon hiện tại đang được 28 tuần, tuy nhiên do cơ chế sinh hoạt thời gian đầu không ổn lắm nên bé tiếp xúc với E.A.S.Y khá muộn ( ở tầm tuần thứ 23 ), mình và mẹ Bon đã tách ra ở riêng để cho con sinh hoạt theo nếp E.A.S.Y đồng thời luyện ngủ cho Bon.

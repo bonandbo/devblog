@@ -3,6 +3,7 @@ layout: post
 title: TIL - Configuring your jekyll site
 #permalink: /til/configuring-your-jekyll-site/
 categories: til
+tags: webdev jekyll
 ---
 Some of the rule should be noted here:
 

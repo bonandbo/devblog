@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Coder Blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-07-12T16:26:15+07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Diep Tran</name>
+   <email>dieptt88@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>introduct-game-engine-with-SDL</title>
+   <link href="http://localhost:4000/gamedev/introduce-game-engine-with-tuto/"/>
+   <updated>2019-07-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/gamedev/introduce-game-engine-with-tuto</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lịch sinh hoạt cho bé 5 tháng tuổi</title>
+   <link href="http://localhost:4000/babybon/lich-sinh-hoat-cho-be-5-thang-tuoi/"/>
+   <updated>2019-03-05T00:00:00+07:00</updated>
+   <id>http://localhost:4000/babybon/lich-sinh-hoat-cho-be-5-thang-tuoi</id>
+   <content type="html">&lt;h3 id=&quot;bé-bon-hiện-tại-đang-được-28-tuần-tuy-nhiên-do-cơ-chế-sinh-hoạt-thời-gian-đầu-không-ổn-lắm-nên-bé-tiếp-xúc-với-easy-khá-muộn--ở-tầm-tuần-thứ-23--mình-và-mẹ-bon-đã-tách-ra-ở-riêng-để-cho-con-sinh-hoạt-theo-nếp-easy-đồng-thời-luyện-ngủ-cho-bon&quot;&gt;Bé Bon hiện tại đang được 28 tuần, tuy nhiên do cơ chế sinh hoạt thời gian đầu không ổn lắm nên bé tiếp xúc với E.A.S.Y khá muộn ( ở tầm tuần thứ 23 ), mình và mẹ Bon đã tách ra ở riêng để cho con sinh hoạt theo nếp E.A.S.Y đồng thời luyện ngủ cho Bon.&lt;/h3&gt;
+
+&lt;p&gt;Tìm hiểu thì có khá nhiều cách, nhưng tại sao lại chọn E.A.S.Y thì mình sẽ nói sau. Đây là lịch sinh hoạt mình tìm hiểu được và khá gióng với lịch sinh hoạt hiện tại của Bon&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.babysleepsite.com/schedules/5-month-old-baby-schedule/&quot;&gt;Link tới bài viết tham khảo - 5 month old baby schedule&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;giấc-ngủ-của-bé-5-tháng-tuổi&quot;&gt;Giấc ngủ của bé 5 tháng tuổi&lt;/h1&gt;
+&lt;p&gt;Mình phải nói thật là ở giai đoạn nào, bố mẹ có con có thể ngủ xuyên đêm thì quá may mắn luôn. Bản thân mình đã chứng kiến con của cậu mình, sinh sau Bon 1 tuần, chỉ cần vỗ 2 phát là tự ngủ luôn, và ngủ xuyên đêm, so với Bon thì đó là niềm mơ ước của vợ chồng mình. Tuy nhiên, Bon thì khác, thời điểm này, cậu chàng vẫn dậy ít nhất 2-3 lần, thậm chí nhiều hơn. Ngủ thì ọ ọe, lăn lộn, dễ thức giấc. Điều đó ảnh hưởng trực tiếp tới sức khỏe và khả năng tập trung của vợ chồng mình, đặc biêt là mẹ Bon.&lt;/p&gt;
+
+&lt;p&gt;Lý thuyết là ở giai đoạn này, Bon cần từ 3-4 naps 1 ngày, cách nhau từ 3-4 tiếng, cộng với 12 tiếng ngủ đêm. Và cứ thế giảm dần còn 3 naps để chuẩn bị cho giai đoạn 6 tháng - ăn dặm. Lưu ý là giai đoạn này, mục tiêu là bé ăn ít nhất từ 700-1200 ml / ngày&lt;/p&gt;
+
+&lt;h1 id=&quot;lịch-sinh-hoạt-mẫu-và-so-sánh-với-lịch-sinh-hoạt-hiện-tại-của-bon&quot;&gt;Lịch sinh hoạt mẫu và so sánh với lịch sinh hoạt hiện tại của Bon&lt;/h1&gt;
+&lt;p&gt;Lịch này phù hợp nhất với bé nhanh mệt và có thể thức được từ 1.5 - 2 giờ giữa các naps&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Lịch mẫu&lt;/th&gt;
+      &lt;th&gt;Lịch của Bon&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6:30  - Dậy và ăn ( 7h15 nếu ăn dặm )&lt;/td&gt;
+      &lt;td&gt;7:00: Dậy và ăn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8:00  - Nap 1 ( ít nhất 1 giờ )&lt;/td&gt;
+      &lt;td&gt;9:00: Nap 1 ( cố gắng 2 giờ )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9:00  - Ăn&lt;/td&gt;
+      &lt;td&gt;11:00: Dậy và ăn, cố gắng cho bé thức 2.5-3h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11:00 - Nap 2 ( 30 phút tới 1 tiếng )&lt;/td&gt;
+      &lt;td&gt;13:00: Nap 2 ( cố gắng 2 giờ )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12:00 - Dậy và ăn&lt;/td&gt;
+      &lt;td&gt;15:00: Dậy và ăn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13:30 - Ăn&lt;/td&gt;
+      &lt;td&gt;16:30: Nap ngắn (30 phút)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:00 - Nap 3&lt;/td&gt;
+      &lt;td&gt;17:00: Dậy và tắm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16:00 - Dậy và ăn&lt;/td&gt;
+      &lt;td&gt;18:45: Ăn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17:00 - Nap ngắn (30 phút)&lt;/td&gt;
+      &lt;td&gt;19:00: Ngủ đêm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18:30 - Chuẩn bị ngủ xuyên đêm&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18:45 - Ăn để ngủ&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;19:00 - Ngủ đêm&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lưu ý là có thể có 1-2 lần dreamfeed&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lịch này sẽ được duy trì đến khi nào con thức đủ 2 tiếng giữa các nap, và không bị mệt quá hay kích thích quá, thì sẽ chuyển sang giai đoạn lịch 6 tháng.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to create categories for Jekyll blog</title>
+   <link href="http://localhost:4000/how-to/how-to-create-categories-for-jekyll-blog/"/>
+   <updated>2019-03-01T00:00:00+07:00</updated>
+   <id>http://localhost:4000/how-to/how-to-create-categories-for-jekyll-blog</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coding University</title>
+   <link href="http://localhost:4000/til/TIL-coding-university/"/>
+   <updated>2019-03-01T00:00:00+07:00</updated>
+   <id>http://localhost:4000/til/TIL-coding-university</id>
+   <content type="html">&lt;p&gt;WIP&lt;/p&gt;
+
+&lt;p&gt;https://github.com/jwasham/coding-interview-university&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to make your own blog with Github page</title>
+   <link href="http://localhost:4000/how-to/how-to-create-blog-github-page/"/>
+   <updated>2019-02-28T00:00:00+07:00</updated>
+   <id>http://localhost:4000/how-to/how-to-create-blog-github-page</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Đây là log lại tạm thời - chưa commit 
+Go tieng viet khong duoợ
+thử gõ tiếng việt ở đây (notepad) xem, hmm, xem ra visual studio code không hỗ trợ unicode cho markdown ?????
+note để tìm hiểu
+thử lại phát nưã
+ok biết lí do rồi, do extension Markdown All in One của Yu Zhang.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Vậy là sau 1 ngày tìm hiểu, mình đã có thể tạo ra những post đầu tiên trên blog của mình, một cách rất đơn giản, đơn giản hơn rất nhiều và thân thuộc hơn rất nhiều với mình. Thanks to Github &amp;amp; Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Bản thân là game dev, không phải web dev, nên mình không đi chuyên sâu vào mấy cái kỹ thuật web dev phức tạp, với mình, viết blog bằng visual studio code hoặc notepad thật tiện, polish bằng command line, càng tuyệt hơn.&lt;/p&gt;
+
+&lt;p&gt;Outline:&lt;/p&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li&gt;Github page, Jekyll là gì&lt;/li&gt;
+  &lt;li&gt;Tại sao lại chọn sử dụng nó&lt;/li&gt;
+  &lt;li&gt;Làm như thế nào, sử dụng công cụ gì, cần biết kiến thức gì&lt;/li&gt;
+  &lt;li&gt;Chuyển sang domain cá nhân ra sao, hay là để .github.io cho ngầu&lt;/li&gt;
+  &lt;li&gt;Tiếp theo là gì:&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Tạo category page&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Tạo Tag page&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Thay favicon&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Sửa about&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Giờ thì lại bị issue với unicode khi publish. Mình nghĩ là do Visual Code đang ko set ở utf-8. Let’s try.
+Đã save ở utf-8. Bằng bằng. mình&lt;/p&gt;
+
+&lt;p&gt;Bằng&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TIL - Configuring your jekyll site</title>
+   <link href="http://localhost:4000/til/TIL-configuring-jekyll-file/"/>
+   <updated>2019-02-27T00:00:00+07:00</updated>
+   <id>http://localhost:4000/til/TIL-configuring-jekyll-file</id>
+   <content type="html">&lt;p&gt;Some of the rule should be noted here:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/&quot;&gt;Configuring jekyll for user and project github pages&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;some-issue-iam-having-with&quot;&gt;Some issue iam having with:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wrong setting between User Page and Project page&lt;/li&gt;
+  &lt;li&gt;When click on post, it’s show wrong index&lt;/li&gt;
+  &lt;li&gt;Baseurl issue, must use baseurl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;checklist-for-user-site&quot;&gt;Checklist for User site&lt;/h3&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; must be empty&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;href=&quot;\{\{ site.baseurl \}\}\{\{ post.url \}\}&lt;/code&gt; no / between baseurl and posturl&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Always start links with &lt;code class=&quot;highlighter-rouge&quot;&gt;\{\{ site.baseurl \}\}&lt;/code&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Always use a trailing after &lt;code class=&quot;highlighter-rouge&quot;&gt;\{\{ site.baseurl \}\}&lt;/code&gt; =&amp;gt; Fix link to resources&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Drawing 1</title>
+   <link href="http://localhost:4000/drawing/sketchnoting-1/"/>
+   <updated>2019-02-26T00:00:00+07:00</updated>
+   <id>http://localhost:4000/drawing/sketchnoting-1</id>
+   <content type="html">&lt;p&gt;Inspired by my &lt;strong&gt;current&lt;/strong&gt; boss and some other tech blogger, i see how easily they are to express their idea just by &lt;strong&gt;an image&lt;/strong&gt;. Yes, instead of throwing out bunch of words, like what iam doing right now, just &lt;strong&gt;draw&lt;/strong&gt;.
+So i decided to join a classroom, thanks to my &lt;strong&gt;current&lt;/strong&gt; boss again, share to me his course, then i attempted, and doing daily drawing for practicing&lt;/p&gt;
+
+&lt;h2 id=&quot;here-the-result-after-day-1&quot;&gt;Here the result after day 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/img/daily-draw-1.jpg&quot; alt=&quot;daily-drawing#1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS I always think that I’m really bad at drawing until yesterday, since the teacher said:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;You always said you don’t know how to draw, but actually you do everyday
+Everytime you write an alphabet, you actually draw an arc and line and transform them to something which other people can understand&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>

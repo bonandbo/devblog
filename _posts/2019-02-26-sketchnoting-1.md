@@ -3,7 +3,7 @@ layout: post
 title: Daily Drawing 1
 #permalink: /daily-drawing-1/
 categories: drawing
-#tags: [sketch, sketchnoting, dailydraw]
+tags: sketch sketchnoting dailydraw
 ---
 Inspired by my **current** boss and some other tech blogger, i see how easily they are to express their idea just by **an image**. Yes, instead of throwing out bunch of words, like what iam doing right now, just **draw**.
 So i decided to join a classroom, thanks to my **current** boss again, share to me his course, then i attempted, and doing daily drawing for practicing
