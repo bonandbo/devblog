@@ -4,7 +4,7 @@
  <title>Coder Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-07-12T16:42:49+07:00</updated>
+ <updated>2019-07-12T16:46:49+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Diep Tran</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>introduct-game-engine-with-SDL</title>
-   <link href="http://localhost:4000/gamedev/introduce-game-engine-with-tuto/"/>
+   <title>Introduce Game Engine with SDL & C++</title>
+   <link href="http://localhost:4000/game/engine/introduce-game-engine-with-tuto/"/>
    <updated>2019-07-12T00:00:00+07:00</updated>
-   <id>http://localhost:4000/gamedev/introduce-game-engine-with-tuto</id>
-   <content type="html">
+   <id>http://localhost:4000/game/engine/introduce-game-engine-with-tuto</id>
+   <content type="html">&lt;h1 id=&quot;what-is-this-tutorial-&quot;&gt;What is this tutorial ?&lt;/h1&gt;
 </content>
  </entry>
  
