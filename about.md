@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  https://github.com/bonandbo
+  [https://github.com/bonandbo](https://github.com/bonandbo)
 </p>
 
 Thanks for reading!
