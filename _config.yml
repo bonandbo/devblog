@@ -8,7 +8,7 @@ highlighter: rouge
 title:               Coder Blog
 tagline:             'A Game Dev - A Coder - A Leader - A Father'
 description:         'I am coder'
-url:                 https://bobonbon.io
+url:                 https://bonandbo.github.io/devblog/
 baseurl:             ''
 paginate:            5
 
