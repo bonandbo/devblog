@@ -9,7 +9,7 @@ title:               Coder Blog
 tagline:             'A Game Dev - A Coder - A Leader - A Father'
 description:         'I am coder'
 url:                 https://bonandbo.github.io/devblog/
-baseurl:             ''
+baseurl:             '/devblog'
 paginate:            5
 
 # About/contact
